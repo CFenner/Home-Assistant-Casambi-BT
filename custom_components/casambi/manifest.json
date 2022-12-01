@@ -1,5 +1,5 @@
 {
-  "domain": "casambi",
+  "domain": "casambi-bt",
   "name": "Casambi Bluetooth",
   "config_flow": true,
   "documentation": "https://github.com/tjorim/casambi-ha",
